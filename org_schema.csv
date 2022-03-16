@@ -1,0 +1,10 @@
+Variable, datatype
+id,Integer 
+first_name,String
+last_name,String
+gender,String
+City,String
+JobTitle,String
+Salary,Integer
+Latitude,Float
+Longitude,Float
